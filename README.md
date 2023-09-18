@@ -6,4 +6,4 @@
 <div><img src="readme1.png" width="250px"></div>
 
 # Mobile
-<div><img src="readme1.png" width="250px"></div>
+<div><img src="readme2.png" width="250px"></div>
